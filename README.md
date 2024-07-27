@@ -29,4 +29,3 @@ Security analysts can use SQL queries to query databases and find data to suppor
 -Apply filters to SQL queries<br>
 -Join tables<br>
 -Perform calculations<br>
-Within each category, commands are organized alphabetically.<br>

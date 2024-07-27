@@ -23,3 +23,10 @@ First select all data form the log_in_attempts table. Use WHERE clause with an A
 ### All Employees not in IT
 ![image](https://github.com/user-attachments/assets/bb2f35b7-6992-4f98-9950-1cddcf787afe)
 
+## Summary
+Security analysts can use SQL queries to query databases and find data to support security-related decisions. Queries used may include:<br>
+-Query a database<br>
+-Apply filters to SQL queries<br>
+-Join tables<br>
+-Perform calculations<br>
+Within each category, commands are organized alphabetically.<br>
